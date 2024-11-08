@@ -1,7 +1,4 @@
 # Deaths-in-US
-
-Certainly! Here's a sample README for your GitHub repository based on the content provided:
-
 ---
 
 # Exploratory Data Analysis on Deaths in the US (2005-2015)
